@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahilrganatra
-- 👀 I’m interested in neuroscience, biology, technology, and the outdoors
+- 👀 I’m interested in computational neuroscience and neural engineering
 - 🌱 I’m currently learning Python for statistical computing & bioinformatics
 - 💞️ I’m looking to collaborate on anything bioinformatics/computational biology!
 - 📫 How to reach me: feel free to contact me at sahilrganatra@gmail.com
