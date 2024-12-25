@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahilrganatra
-- 👀 I’m interested in computational neuroscience and neural engineering
-- 🌱 I’m currently learning Python for statistical computing & bioinformatics
-- 💞️ I’m looking to collaborate on anything bioinformatics/computational biology!
+- 📚 I'm an M.S. student at the University of Pittsburgh studying computational biology
+- 🌱 I’m currently learning Python for bioinformatics and machine learning
+- 💞️ I’m excited to collaborate on anything bioinformatics/computational biology!
 - 📫 How to reach me: feel free to contact me at sahilrganatra@gmail.com
 
 <!---
