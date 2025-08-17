@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahilrganatra
-- 📚 I'm a grad student at the University of Pittsburgh studying computational biology
-- 🌱 I’m currently learning Python for bioinformatics and machine learning
+- 📚 I'm an emerging bioinformatics engineer/computational biologist
+- 🌱 I’m currently building my Python and R skills for bioinformatics and machine learning
 - 💞️ I’m excited to collaborate on anything bioinformatics/compbio!
 - 📫 How to reach me: feel free to contact me at sahilrganatra@gmail.com
 
